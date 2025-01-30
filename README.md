@@ -1,5 +1,5 @@
 
-# PyQt5 Digital Clock (Python)
+# Budget Tracker (Python)
 ## Overview
 This project is a budget tracker that lets the User either: Check Transactions, Add Deposits, Add Purchases, or Close the app. Soon, this information will be stored in another file. 
 
